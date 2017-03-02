@@ -2,17 +2,18 @@
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
 - TA: [Yoonseung Kim](http://sf.snu.ac.kr/yoonseung.kim/)
-    + Email address: [pp201701@sf.snu.ac.kr](mailto:pp201701@sf.snu.ac.kr).
-        * Send emails for administrative matters only. Use the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp201602/issues).
-        * DO NOT send emails to `yoon...@sf.snu.ac.kr`.
-        * In the case of sending TA an email, specify sender's name and student ID.
     + Place: Bldg 301 Rm 416
+    + Email address: [pp201701@sf.snu.ac.kr](mailto:pp201701@sf.snu.ac.kr).
+        * DO NOT send emails to `yoon...@sf.snu.ac.kr`.
+        * In your email, specify your name and student ID.
 
 ## Announcements
 
 - 09/05: Lecture slide is uploaded [here](lecture.pdf).
 
 ## Assignments
+
+- To be announced
 
 ## Must Read
 
@@ -27,7 +28,7 @@
     + Or, you can always use [GitHub Gist](https://gist.github.com/).
 
 ### Scala
-
+- Latest version: [2.12.1](https://www.scala-lang.org/)
 - Use IDEs supporting Scala.
     + Emacs: [Ensime](https://github.com/ensime).
     + Eclipse, IntelliJj IDEA: You may easily find information on google.
