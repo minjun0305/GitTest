@@ -9,7 +9,7 @@
 
 ## Announcements
 
-- 09/05: Lecture slide is uploaded [here](lecture.pdf).
+- 03/02: Lecture slide is uploaded [here](lecture.pdf).
 
 ## Assignments
 
@@ -21,7 +21,7 @@
 
 ### Questions
 
-- Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp201602/issues).
+- Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp201701/issues).
 - Send email for *PERSONAL MATTERS ONLY*.
 - If you want to post a piece of source code, please DO NOT upload an image of it. Because it is hard to parse images.
     + Instead, use GitHub Markdown's ["fenced code blocks" feature](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks).
