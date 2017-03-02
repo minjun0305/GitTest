@@ -10,6 +10,7 @@
 ## Announcements
 
 - 03/02: Lecture slide is uploaded [here](lecture.pdf).
+- Lecture on March 7th will be a practice session. Click [this](https://github.com/snu-sf-class/pp201701/issues/1) for more information
 
 ## Assignments
 
