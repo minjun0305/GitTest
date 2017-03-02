@@ -2,7 +2,7 @@
 
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
 - TA: [Yoonseung Kim](http://sf.snu.ac.kr/yoonseung.kim/)
-    + Place: Bldg 301 Rm 416
+    + Office: Bldg 301 Rm 416
     + Email address: [pp201701@sf.snu.ac.kr](mailto:pp201701@sf.snu.ac.kr).
         * DO NOT send emails to `yoon...@sf.snu.ac.kr`.
         * In your email, specify your name and student ID.
