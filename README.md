@@ -3,9 +3,7 @@
 - Instructor: Prof. [Chung-Kil Hur](http://sf.snu.ac.kr/gil.hur)
 - TA: [Yoonseung Kim](http://sf.snu.ac.kr/yoonseung.kim/)
     + Office: Bldg 301 Rm 416
-    + Email address: [pp201701@sf.snu.ac.kr](mailto:pp201701@sf.snu.ac.kr).
-        * DO NOT send emails to `yoon...@sf.snu.ac.kr`.
-        * In your email, specify your name and student ID.
+    + Email address: [pp201701@sf.snu.ac.kr](mailto:pp201701@sf.snu.ac.kr)
 
 ## Announcements
 
@@ -23,18 +21,20 @@
 ### Questions
 
 - Ask questions in the [GitHub repository issue tracker](https://github.com/snu-sf-class/pp201701/issues).
-- Send email for *PERSONAL MATTERS ONLY*.
-- If you want to post a piece of source code, please DO NOT upload an image of it. Because it is hard to parse images.
-    + Instead, use GitHub Markdown's ["fenced code blocks" feature](https://help.github.com/articles/github-flavored-markdown/#fenced-code-blocks).
+    + When you post a piece of source code, use ["fenced code blocks" feature](https://help.github.com/articles/creating-and-highlighting-code-blocks/)
+      * Like this:
+      ```
+      def foo(x:Int) = x + 3
+      foo(10)
+      ```
     + Or, you can always use [GitHub Gist](https://gist.github.com/).
+- Send email for *PERSONAL MATTERS ONLY*.
 
 ### Scala
 - Latest version: [2.12.1](https://www.scala-lang.org/)
 - Use IDEs supporting Scala.
+    + IntelliJ IDEA
+    + Eclipse (works only for Scala 2.11.8, which is older)
     + Emacs: [Ensime](https://github.com/ensime).
-    + Eclipse, IntelliJj IDEA: You may easily find information on google.
-
-- Etc.
-    + Coursera course's [tool setting](https://www.coursera.org/learn/progfun1/home/week/1).
 
 #### Honor Code: *DO NOT CHEAT*
