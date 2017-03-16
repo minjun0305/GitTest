@@ -1,5 +1,5 @@
-package pp201701.hw0.test
-import pp201701.hw0.submit.main._
+package pp201701.hw1.test
+import pp201701.hw1.submit.main._
 
 object TestSuite extends App {
   def print_result(b:Boolean) : Unit =
