@@ -1,7 +1,7 @@
-package pp201701.hw1.test
-import pp201701.hw1.submit.main._
+package pp201701.hw1test
+import pp201701.hw1.Main._
 
-object TestSuite extends App {
+object Test extends App {
   def print_result(b:Boolean) : Unit =
     if (b) println("O") else println("X")
 

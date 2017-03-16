@@ -1,7 +1,7 @@
-package pp201701.hw1.submit
+package pp201701.hw1
 import scala.annotation.tailrec
 
-object main {
+object Main {
   /*
    Implement given functions, which is currently blank. (???)
    */
