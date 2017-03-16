@@ -1,4 +1,4 @@
-// Ignore this file; only for test.
+// NOT the real homework! This is for a test.
 
 package pp201701.hw0.submit
 
