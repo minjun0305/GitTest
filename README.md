@@ -11,7 +11,7 @@
 - Lecture on March 7th will be a practice session. Click [this](https://github.com/snu-sf-class/pp201701/issues/1) for more information
 - 03/16: [HW1](assignments/hw1) is out. (Due date: 3/24(FRI) 23:59). [Instruction for submission](HWInstruction.md)
 ## Assignments
-- Replace `???` with your code
+- Download skeleton code and replace `???` with your code
 - No delayed submission
 
 |No. | Published     | Due       	| Description                   	 	 	 	 	 	 	 	 	 	  	|
