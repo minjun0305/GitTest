@@ -10,3 +10,4 @@
   + The Atom editor will be helpful, since the Scala plugin is installed.
   + Though, you can use any other editors you want.
   + We will provide shell scripts for compiling and testing your code.
+- Your seat in the exam place will be randomly decided.
