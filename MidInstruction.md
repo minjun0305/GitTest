@@ -1,7 +1,7 @@
 # Midterm Exam
 
 - Date: April 23(Sun), 2pm ~ (no time limit, but 3 hours should be enough)
-- Place: Software Lab(302-311) and Hardware Lab(302-312) in Building 302
+- Place: Software Lab and Hardware Lab (on 3rd floor of Building 302)
 - In the exam, you will do programming and submit your code via a web server, like homework.
 - Internet will be disconnected during exam.
   + We will provide the (slightly modified) lecture slides.
